@@ -1,0 +1,37 @@
+# Llaves
+keys/
+
+# Entornos virtuales
+.venv/
+env/
+ENV/
+venv/
+
+# Archivos de entorno y secretos
+.env
+.env.*
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de log y cache
+*.log
+*.sqlite3
+*.db
+*.swp
+*.bak
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+
+# Otros
+*.tar
+*.gz
+*.zip
